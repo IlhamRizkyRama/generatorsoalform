@@ -1,0 +1,6 @@
+{
+  "name": "ASTS Koding & AI Exam Creator",
+  "description": "Aplikasi pembuatan dan sinkronisasi Google Forms otomatis untuk Asesmen Sumatif Tengah Semester (ASTS) Koding dan Kecerdasan Artifisial SMK Pertiwi Ciasem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
